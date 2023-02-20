@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saswat Ranjan Senapati</h1>
 <h3 align="center">A passionate developer, from India.</h3>
 
-- 🌱 I’m currently learning **Python, Spark and its libraries**
+- 🌱 I’m currently learning **Python, PySpark and its libraries**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Saswat333?tab=repositories)
 
-- 💬 Ask me about **Java, Springboot, Javascript**
+- 💬 Ask me about **Java, Springboot, Python**
 
 - 📫 How to reach me **saswatsenapati333@gmail.com**
 
