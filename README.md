@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saswatsenapati333@gmail.com**
 
-- 📄 Know about my experiences [I have around 3 years of experience in IT industry as a developer. Have worked around end to end in projects.](I have around 3 years of experience in IT industry as a developer. Have worked around end to end in projects.)
+- 📄 Know about my experiences [I have around 5 years of experience in IT industry as a developer. Have worked around end to end in projects.](I have around 5 years of experience in IT industry as a developer. Have worked around end to end in projects.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
