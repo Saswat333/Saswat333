@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saswat Ranjan Senapati</h1>
 <h3 align="center">A passionate developer, from India.</h3>
 
-- 🌱 I’m currently learning **Python, PySpark and its libraries**
+- 🌱 I’m currently learning **Docker, Kubernetes, Go and its libraries**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Saswat333?tab=repositories)
 
-- 💬 Ask me about **Java, Springboot, Python**
+- 💬 Ask me about **Java, Springboot, AWS, Python and Distributed Systems**
 
 - 📫 How to reach me **saswatsenapati333@gmail.com**
 
-- 📄 Know about my experiences [I have around 5 years of experience in IT industry as a developer. Have worked around end to end in projects.](I have around 5 years of experience in IT industry as a developer. Have worked around end to end in projects.)
+- 📄 Know about my experiences [I have around 6 years of experience in IT industry as a developer. Have worked around end to end in projects.](I have around 6 years of experience in IT industry as a developer. Have worked around end to end in projects.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
